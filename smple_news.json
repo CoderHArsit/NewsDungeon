@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kevin Spacey faces further sex offence charges",
+    "description": "The Oscar-winning actor is accused of seven offences against one man from 2001-2004, prosecutors say.",
+    "url": "http://www.bbc.co.uk/news/uk-63647365",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10252/production/_127003166_hi079342054-1.jpg",
+    "publishedAt": "2022-11-16T14:52:21.808697Z",
+    "content": "Oscar-winning actor Kevin Spacey is to be charged with a further seven sexual offences against one man, the Crown Prosecution Service (CPS) has said.\r\nThey include three counts of indecent assault, t… [+656 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Poland missile strike reveals Nato divisions",
+    "description": "James Landale on what different responses to the missile deaths in Poland say about Nato.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63651154",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F64F/production/_127655036_poland.jpg",
+    "publishedAt": "2022-11-16T13:52:24.5596346Z",
+    "content": "Responsibility for the missile strike in Poland is still being established. \r\nBut the way countries responded to the incident before the facts were known was revealing. \r\nUkraine was swift to blame R… [+1846 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mariah Carey is officially not the 'Queen of Christmas'",
+    "description": "The US star's application to trademark the moniker has been denied for administration reasons.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-63647164",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59E7/production/_127651032_gettyimages-628179788.jpg",
+    "publishedAt": "2022-11-16T13:22:16.871884Z",
+    "content": "Mariah Carey's application to trademark the moniker \"Queen of Christmas\" has been denied by the US Patent and Trademark Office.\r\nThe American star's application was denied after her company did not r… [+3133 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "COP27: Oil pollution in Egypt threatens one of world's few thriving coral reefs",
+    "description": "A climate-change resistant Red Sea reef is being flooded with toxic wastewater, leaked documents show.",
+    "url": "http://www.bbc.co.uk/news/science-environment-63603861",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B38C/production/_127646954_coralimage3.jpg",
+    "publishedAt": "2022-11-16T12:07:21.3404811Z",
+    "content": "As Egypt hosts world leaders to discuss action over climate change, an oil terminal is dumping toxic wastewater on the country's Red Sea coast, an investigation by BBC News Arabic has found. A rare f… [+5829 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nasa's Artemis Moon rocket lifts off Earth",
+    "description": "Nasa launches the most powerful rocket in its history as it kick-starts efforts to get humans back to the Moon.",
+    "url": "http://www.bbc.co.uk/news/science-environment-63643707",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1770F/production/_127651069_newindex.jpg",
+    "publishedAt": "2022-11-16T09:52:22.2683446Z",
+    "content": "Media caption, Watch: Nasa's Artemis I rocket blasts off\r\nThe American space agency Nasa has launched its biggest ever rocket from Cape Canaveral in Florida. \r\nThe 100m-tall Artemis vehicle climbed s… [+3030 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Russia denies responsibility for Poland blast",
+    "description": "Two people are killed in a missile strike in Poland, with Moscow and Kyiv trading blame over the blast.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63640344",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B56C/production/_127644464_plumeofsmoke.jpg",
+    "publishedAt": "2022-11-16T04:37:22.9816548Z",
+    "content": "US President Joe Biden has said it is \"unlikely\" that a missile that killed two people in Poland on Tuesday was fired from Russia.\r\nPolish officials said the \"Russian-made missile\" landed in Przewodo… [+4012 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump says he'll run for president again in 2024",
+    "description": "The announcement sets up a possible repeat of 2020's bitter contest with President Joe Biden.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63463738",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15127/production/_127611368_trumpannouncement.jpg",
+    "publishedAt": "2022-11-16T02:37:22.919926Z",
+    "content": "Former US President Donald Trump has launched his third bid for the White House, declaring: \"America's comeback starts right now.\"\r\nAt his Florida estate, he said: \"son we will be a great nation aga… [+681 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump 2024: Six ways running will be harder for him this time",
+    "description": "He has immense strength as a presidential candidate but there are a few things counting against him.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63638929",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2DCC/production/_127642711_trump5_getty.jpg",
+    "publishedAt": "2022-11-16T02:22:24.1391085Z",
+    "content": "Donald Trump has announced his third-straight presidential bid, in an extremely rare attempt by a former US leader to recapture the White House after losing an election.\r\nThe former president's aides… [+6801 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Virginia McLaurin: Woman who danced with Obamas dies at 113",
+    "description": "Virginia McLaurin lived he dream of not just seeing the first black president, but dancing with him at the White House.",
+    "url": "http://www.bbc.co.uk/news/newsbeat-35633655",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FD10/production/_127648746_virginia.jpg",
+    "publishedAt": "2022-11-16T01:52:20.8568361Z",
+    "content": "A Washington DC woman who lived her dream of dancing with President Barack Obama at the White House has died, aged 113. Virginia McLaurin was 106 when she met the nation's first black president and f… [+2330 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "G20 to focus on food security after Biden-Xi meeting",
+    "description": "The meeting gets under way after the Chinese and US leaders vow there will be no \"new Cold War\".",
+    "url": "http://www.bbc.co.uk/news/live/world-asia-63593855",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-11-15T01:52:35.888902Z",
+    "content": "Although some high-profile meetings have already taken place today, the annual G20 summit is due to begin officially on Tuesday.\r\nThe G20, or Group of Twenty, is a club of countries which meets to di… [+689 chars]"
+    }
+    ]
+    }
